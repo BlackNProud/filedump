@@ -4,7 +4,7 @@ A list of all of my incentives for my SGB26 stream...
 ## Individual Donations
 - $1-$25: Restart the current stage.
 - $25-$100: Restart the current hack.
-- $100 or more: Go all the way back to the start
+- $100 or more: Full reset; go *allllll* the way back to the beginning of Nightmare Café 1
 
 ## Total Donations (Combined Total - BnP Streams)
 - $50 or more: Don a handlebar mustache for the rest of stream.
